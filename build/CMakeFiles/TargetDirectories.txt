@@ -1,0 +1,6 @@
+/home/pi/Desktop/arduino_communication/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/arduino_communication/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/arduino_communication/build/CMakeFiles/package_source.dir
+/home/pi/Desktop/arduino_communication/build/CMakeFiles/package.dir
+/home/pi/Desktop/arduino_communication/build/CMakeFiles/arduino-communication.dir
+/home/pi/Desktop/arduino_communication/build/CMakeFiles/serial.dir

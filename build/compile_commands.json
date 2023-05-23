@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/pi/Desktop/arduino_communication/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/pi/Desktop/arduino_communication/build -I/home/pi/Desktop/arduino_communication -I/home/pi/Desktop/arduino_communication/third-party/include -g -std=gnu++11 -o CMakeFiles/arduino-communication.dir/main.cpp.o -c /home/pi/Desktop/arduino_communication/main.cpp",
+  "file": "/home/pi/Desktop/arduino_communication/main.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/arduino_communication/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/pi/Desktop/arduino_communication/build -I/home/pi/Desktop/arduino_communication -I/home/pi/Desktop/arduino_communication/third-party/include -g -std=gnu++11 -o CMakeFiles/serial.dir/third-party/src/serial.cc.o -c /home/pi/Desktop/arduino_communication/third-party/src/serial.cc",
+  "file": "/home/pi/Desktop/arduino_communication/third-party/src/serial.cc"
+},
+{
+  "directory": "/home/pi/Desktop/arduino_communication/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/pi/Desktop/arduino_communication/build -I/home/pi/Desktop/arduino_communication -I/home/pi/Desktop/arduino_communication/third-party/include -g -std=gnu++11 -o CMakeFiles/serial.dir/third-party/src/impl/list_ports/list_ports_linux.cc.o -c /home/pi/Desktop/arduino_communication/third-party/src/impl/list_ports/list_ports_linux.cc",
+  "file": "/home/pi/Desktop/arduino_communication/third-party/src/impl/list_ports/list_ports_linux.cc"
+},
+{
+  "directory": "/home/pi/Desktop/arduino_communication/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/home/pi/Desktop/arduino_communication/build -I/home/pi/Desktop/arduino_communication -I/home/pi/Desktop/arduino_communication/third-party/include -g -std=gnu++11 -o CMakeFiles/serial.dir/third-party/src/impl/unix.cc.o -c /home/pi/Desktop/arduino_communication/third-party/src/impl/unix.cc",
+  "file": "/home/pi/Desktop/arduino_communication/third-party/src/impl/unix.cc"
+}
+]
